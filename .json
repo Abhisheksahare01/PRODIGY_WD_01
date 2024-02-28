@@ -1,0 +1,3 @@
+document.getElementById('changeColor').addEventListener('click', function() {
+  document.querySelector('header').style.backgroundColor = '#ff0000';
+});
